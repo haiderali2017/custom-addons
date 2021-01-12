@@ -6,7 +6,7 @@
 # All Rights Reserved.
 #################################################################################
 {
-    'name': "Invoice Scan (Full Automatic Vendor Bill Flow)",
+    'name': "Invoice Scan (Full Automatic Vendor Bill Flow) changes made by Shoaib",
     'version': '1.4.1',
     'author': "Niova IT",
     'category': 'Accounting',
