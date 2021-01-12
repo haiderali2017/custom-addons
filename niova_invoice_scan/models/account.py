@@ -41,6 +41,7 @@ class AccountMove(models.Model):
         
         # Get vouchers
         vouchers = InvoiceScan.get_ready_vouchers()
+        print(vouchers)
         if not vouchers:
             return 
         
